@@ -1,0 +1,6 @@
+Artificial intelligence related toys:
+
+sudoku_solver_csp.py
+- Solves a sudoku given as first argument by first trying constraint satisfaction arc propagation algorithm (AC3). If it is not enough, backtracking finds the solution.
+- Usage: python sudoku_solver_csp.py 094000130000000000000076002080010000032000000000200060000050400000008007006304008
+
